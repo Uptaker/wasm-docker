@@ -192,11 +192,14 @@ services:
       - 8080:8080
 ```
 
-# Lugemiseks
+# Huvilistele
 
-- Uuri lähtekoodi, kuidas püstitati Rusti baasil HTTP serveri ja serveeriti masinõppe mudeli. Eraldi ka tavaline 
-https://github.com/WasmEdge/wasmedge_hyper_demo
+Uuri lähtekoodi, kuidas püstitati Rusti baasil lihtsa HTTP serveri ja serveeriti masinõppe mudeli:
+- https://github.com/WasmEdge/wasmedge_hyper_demo
 
 # Allikad
+
+Materjal loodud järgnevate allikate põhjal:
+
 - https://docs.docker.com/desktop/wasm/
 - https://blog.devgenius.io/wasm-docker-hello-world-2ac6a456ddd4
