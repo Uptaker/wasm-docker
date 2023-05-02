@@ -167,7 +167,7 @@ Väljundiks peaks tulema eelnevas peatükkis kirjutatud sõnum. Õpetuse juhul:
 Tere läbi Dockeri!
 ```
 
-## Kokkuvõtte
+## Kokkuvõte
 
 See oli lihtne näide, kuid ideaalis on WebAssembly konteinerid väiksed mikroteenused, mis ka päriselt teevad midagi - kasvõi veebiteenusena. Selleks peaks kasutusele võtma Rustis kirjuattud reaalse HTTP serveri sõltuvusi (või ise kirjutama), et seda ka saavutada.
 
